@@ -1,2 +1,2 @@
 # shitshock
-A terminal command that deletes a single 
+A terminal command that deletes a folder quickly.
